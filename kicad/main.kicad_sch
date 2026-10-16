@@ -6151,6 +6151,16 @@
 		)
 		(uuid "8815e4d0-0ee6-4126-83e9-167955eeafeb")
 	)
+	(text "R4/R5 berechnen"
+		(exclude_from_sim no)
+		(at 83.058 44.958 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9e752851-ffe9-4efa-8566-7e1d4e49ce3f")
+	)
 	(text "Supply Jumper for\nATM 3.3V"
 		(exclude_from_sim no)
 		(at 95.758 141.478 0)
@@ -12493,7 +12503,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "51"
+		(property "Value" "4.7k"
 			(at 304.8 193.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13591,7 +13601,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "10uF"
 			(at 186.69 26.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14243,7 +14253,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "10u"
 			(at 190.5 195.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15317,7 +15327,7 @@
 				)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "NB"
 			(at 91.44 33.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15508,7 +15518,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "51"
 			(at 86.614 202.946 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15951,7 +15961,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "10uF"
 			(at 212.09 26.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16044,7 +16054,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "100nF"
 			(at 111.76 46.9899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19616,7 +19626,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "10uF"
 			(at 199.39 26.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19977,7 +19987,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0"
 			(at 147.828 208.28 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21111,7 +21121,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "1k"
 			(at 85.09 210.058 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21941,7 +21951,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "51"
+		(property "Value" "4.7k"
 			(at 294.64 193.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22204,7 +22214,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "NB"
 			(at 99.06 46.9899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22637,7 +22647,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "10u"
 			(at 177.8 195.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22808,7 +22818,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "10u"
 			(at 203.2 195.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23237,7 +23247,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "51"
 			(at 86.36 194.818 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23586,7 +23596,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 295.91 34.9249 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25089,7 +25099,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1uF"
 			(at 346.71 229.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
